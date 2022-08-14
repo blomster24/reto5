@@ -1,0 +1,12 @@
+model\vo\LiderVo.class
+view\mJframe$1.class
+model\dao\LiderDao.class
+controller\Controller.class
+view\Test.class
+util\JDBCUtilities.class
+model\vo\ComprasVo.class
+model\vo\ProyectosVo.class
+view\mJframe.class
+model\dao\ComprasDao.class
+model\dao\ProyectosDao.class
+controller\MainController.class
